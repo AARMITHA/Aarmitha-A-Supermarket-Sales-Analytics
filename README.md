@@ -180,18 +180,14 @@ c:\Users\Aarmitha\Pictures\AICTE_ibm_internship\
 ├── Supermarket Sales 2.csv                   # Original Source Dataset (5,053 transactions)
 │
 ├── charts/                                   # High-Resolution Publication-Quality Visualizations (DPI=300)
-│   ├── 01_kpi_dashboard.png
-│   ├── 02_monthly_trend.png
-│   ├── 03_branch_performance.png
-│   ├── 04_product_line_performance.png
-│   ├── 05_customer_type_analysis.png
-│   ├── 06_rating_vs_traffic.png
-│   └── 07_payment_and_gender.png
-│
-├── generate_assets.py                        # Automated Matplotlib/Seaborn Chart Generator
-├── build_notebook.py                         # Programmatic Notebook Builder and Kernel Executor
-├── generate_report.py                        # Programmatic Word Report Generator (python-docx)
-└── report_helpers.py                         # Document XML Styling & Layout Helpers
+    ├── 01_kpi_dashboard.png
+    ├── 02_monthly_trend.png
+    ├── 03_branch_performance.png
+    ├── 04_product_line_performance.png
+    ├── 05_customer_type_analysis.png
+    ├── 06_rating_vs_traffic.png
+    └── 07_payment_and_gender.png
+
 ```
 
 ---
